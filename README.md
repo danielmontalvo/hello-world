@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-Test repository
+Test repository.
 My name is Daniel.
